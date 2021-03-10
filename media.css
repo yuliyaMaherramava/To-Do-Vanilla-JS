@@ -1,0 +1,41 @@
+
+@media screen and (max-width:560px){
+    .menu{
+        width: 400px;
+    }
+}
+@media screen and (max-width:517px){
+    #addCard > input {
+        padding: 6px 7px;
+        margin: 20px 0px;
+        }
+    #addCard{
+        text-align: center;
+    }
+    .content{
+        justify-content: space-around;
+    }
+    #show-state{
+        padding:10px;
+    }
+ }
+
+@media screen and (max-width: 500px) {
+    #modal{
+        width:310px;
+    }
+}
+
+@media screen and (max-width:450px){
+    .menu{
+        width: 330px;
+    }
+}
+@media screen and (max-width:390px){
+    .menu{
+        width: 260px;
+    }
+    .btn-move-card {
+        margin-top: 10px;
+    }
+}
